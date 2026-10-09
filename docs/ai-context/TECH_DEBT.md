@@ -2,6 +2,8 @@
 
 _Assessed 2026-10-08 against commit `33feca3d84` by reading code and counting with grep. No tests or builds were run. Ratings are judgement calls about risk to someone changing this codebase, not bug reports. Paths are relative to `src/java/org/apache/cassandra/` unless they start at the repo root._
 
+> **Update 2026-10-09:** measured against upstream: 2,008 commits behind, 0 ahead, so the sync is a fast-forward. H6 is partly fixed upstream. Details in `UPSTREAM_DELTA.md`.
+
 ## Critical
 
 | # | Item | Evidence | Why it matters |

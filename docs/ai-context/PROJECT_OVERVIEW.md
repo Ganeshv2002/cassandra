@@ -43,6 +43,7 @@ Teams that need always-on writes across datacenters at very large scale with pre
 
 ## Where to read next
 
+- `UPSTREAM_DELTA.md` for what upstream has added since this snapshot.
 - `ARCHITECTURE.md` for layers and diagrams.
 - `DATA_FLOWS.md` for traced request paths with file and line references.
 - `CODEBASE_MAP.md` and `REPO_INDEX.md` for navigation.

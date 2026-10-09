@@ -2,6 +2,8 @@
 
 _Researched 2026-10-08 by web search. Each finding carries the date of its source. Vendor sources are marked; treat their claims as marketing. Nothing here was verified by running the products._
 
+> **Update 2026-10-09:** the gap ratings below were re-checked against upstream trunk code. See `UPSTREAM_DELTA.md` for the revised ratings and the recommended first feature (a CQL `EXPLAIN`).
+
 ## State of Apache Cassandra itself
 
 | Finding | Source date | Source |

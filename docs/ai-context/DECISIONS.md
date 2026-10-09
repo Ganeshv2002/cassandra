@@ -31,4 +31,5 @@ _Written 2026-10-08. Part A records architectural decisions observable in the co
 | B4 | Line numbers are cited but marked as tied to commit `33feca3d84` | They make flows checkable now and will drift |
 | B5 | Market findings carry source dates and vendor flags | Most available material is vendor-written |
 | B6 | Nothing was built or run | Analysis was static: reading code, grep counts and web search. Performance and correctness claims are therefore from code reading only |
+| B8 | On 2026-10-09 upstream trunk was fetched into a read-only `upstream` remote for comparison; nothing was merged | Lets gaps be checked against real upstream code without changing the fork |
 | B7 | The repository was not pulled or rebased before analysis | The analysis describes the checkout as found; the staleness is recorded as debt item C1 |

@@ -60,4 +60,4 @@ Test commands are taken from `build.xml` target names and `TESTING.md`; they wer
 
 ## The other AI context documents
 
-`PROJECT_OVERVIEW.md`, `ARCHITECTURE.md`, `CODEBASE_MAP.md`, `DATA_FLOWS.md`, `AI_ARCHITECTURE.md`, `MARKET_ANALYSIS.md`, `TECH_DEBT.md`, `DECISIONS.md`, `WALKTHROUGH.md`.
+`PROJECT_OVERVIEW.md`, `ARCHITECTURE.md`, `CODEBASE_MAP.md`, `DATA_FLOWS.md`, `AI_ARCHITECTURE.md`, `MARKET_ANALYSIS.md`, `TECH_DEBT.md`, `DECISIONS.md`, `WALKTHROUGH.md`, `UPSTREAM_DELTA.md`.
